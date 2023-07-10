@@ -1,2 +1,2 @@
-# terraformyt
+# terraform
 Terraform code 
